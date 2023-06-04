@@ -51,8 +51,8 @@ Block Number:  3621437
 
 ## 💥minted https://sepolia.etherscan.io/address/0x217c5b9bcbd88feb291b8240f9255fecff17c480
 
-### Boom 🤯 We now learned how to use flashbots to mint a NFT but you can do so much more 👀
-### GG 🥳
+Boom 🤯 We now learned how to use flashbots to mint a NFT but you can do so much more 👀   
+GG 🥳
 
 
 # 📚 Readings
